@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Manager",
+        "description": "mengatur supervisor dalam produksi",
+        "imgUrl": "https://st.depositphotos.com/1104991/3727/i/600/depositphotos_37273107-stock-photo-supervisor-with-tablet-pc-in.jpg",
+        "companyId": 1,
+        "authorId": 1,
+        "jobType": "Manager",
+        "status": "Active"
+    },
+    {
+        "title": "Full Stack",
+        "description": "membuat web aplication frontend dan backend",
+        "imgUrl": "https://st.depositphotos.com/1104991/3727/i/600/depositphotos_37273107-stock-photo-supervisor-with-tablet-pc-in.jpg",
+        "companyId": 2,
+        "authorId": 1,
+        "jobType": "Manager",
+        "status": "Active"
+    }
+
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Gojek Inc",
+        "companyLogo": "Gojek",
+        "location": "Jakarta",
+        "email": "gojek@gmail.com",
+        "description": "startUp ternama di jakarta"
+    },
+    {
+        "name": "Trapeloka",
+        "companyLogo": "Trapeloka",
+        "location": "Jakarta",
+        "email": "trapel@mail.com",
+        "description": "trapel@mail.com"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "username": "naruto",
+        "email": "naruto@gmail.com",
+        "password": "naruto",
+        "role": "Admin",
+        "phoneNumber": "1111111111",
+        "address": "Serpong"
+    },
+    {
+        "username": "staff",
+        "email": "staff@gmail.com",
+        "password": "staff",
+        "role": "Staff",
+        "phoneNumber": "1111111111",
+        "address": "Jakarta"
+    }
+]
