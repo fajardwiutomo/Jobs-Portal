@@ -1,0 +1,44 @@
+<template>
+  <div id="app">
+    <navbar-component />
+    <h2 class="mt-10 mb-10 text-center font-bold text-3xl text-slate-600">
+      Portal Job For Everyone Need
+    </h2>
+    <router-view></router-view>
+    
+  </div>
+</template>
+
+<script>
+import NavbarComponent from './components/NavbarComponent.vue'
+export default {
+  name: 'App',
+  components: {
+    NavbarComponent
+    
+  }
+}
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+nav {
+  padding: 30px;
+}
+
+nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+nav a.router-link-exact-active {
+  color: #42b983;
+}
+</style>
